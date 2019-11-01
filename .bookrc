@@ -1,0 +1,22 @@
+{
+  "name": "The Barbarians",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/the-barbarians/master/assets",
+  "book_id": 1210,
+  "book_url": "https://bubblin.io/book/the-barbarians-by-tom-godwin"
+}
